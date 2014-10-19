@@ -6,7 +6,6 @@ module.exports = function(config) {
         preprocessors: {
             '**/*.coffee': 'coffee'
         },
-
         files: [
             'app/assets/javascripts/angular.min.js',
             'app/assets/javascripts/angular-mocks.js',

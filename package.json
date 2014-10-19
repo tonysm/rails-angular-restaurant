@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "karma": "^0.12.24",
+    "karma-ng-scenario": "^0.1.0"
+  }
+}
