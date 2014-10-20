@@ -7,7 +7,8 @@ module.exports = function(config) {
             '**/*.coffee': 'coffee'
         },
         files: [
-            'app/assets/javascripts/angular.min.js',
+            'app/assets/javascripts/angular.js',
+            'app/assets/javascripts/angular-route.js',
             'app/assets/javascripts/angular-mocks.js',
             'app/assets/javascripts/main.js.coffee',
             'app/assets/javascripts/angular/controllers/RestaurantIndexController.js.coffee',
